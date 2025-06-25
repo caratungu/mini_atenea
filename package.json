@@ -1,0 +1,14 @@
+{
+  "name": "mini-devops-api",
+  "version": "1.0.0",
+  "description": "Mini proyecto backend con Node.js y despliegue en Railway",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "LF",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
